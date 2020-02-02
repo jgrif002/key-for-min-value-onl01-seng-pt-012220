@@ -13,8 +13,3 @@ def key_for_min_value(name_hash)
     end
   min_key
 end
-
-def key_for_min_value(name_hash)
-  name_hash.collect do |key, value|
-    hash.key.min 
-end
